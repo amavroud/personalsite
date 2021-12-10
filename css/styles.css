@@ -217,6 +217,10 @@ small, .small {
   font-size: 0.875em;
 }
 
+smallCard, .smallCard {
+  font-size: 0.8em;
+}
+
 mark, .mark {
   padding: 0.2em;
   background-color: #fcf8e3;
@@ -4658,7 +4662,7 @@ textarea.form-control-lg {
 
 .card-body {
   flex: 1 1 auto;
-  padding: 1rem 1rem;
+  padding: 2rem 2rem;
 }
 
 .card-title {
